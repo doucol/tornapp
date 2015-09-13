@@ -1,7 +1,6 @@
-__author__ = 'doug'
-
 import tornado.ioloop
 import tornado.web
+__author__ = 'doug'
 
 
 class MainHandler(tornado.web.RequestHandler):
