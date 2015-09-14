@@ -1,11 +1,10 @@
 import tornado.ioloop
 import tornado.web
-__author__ = 'doug'
 
 
 class MainHandler(tornado.web.RequestHandler):
     def get(self):
-        self.write("Hello, world")
+        self.write("Hello, world2")
 
 
 if __name__ == "__main__":

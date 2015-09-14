@@ -66,3 +66,7 @@ target/
 [Ss]cripts
 pyvenv.cfg
 pip-selfcheck.json
+
+# IDEA .idea directory
+.idea/
+
